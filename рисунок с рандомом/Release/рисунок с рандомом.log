@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\итмо\3 курс\рисунок с рандомом\рисунок с рандомом\source.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  0 of 13 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  рисунок с рандомом.vcxproj -> D:\ИТМО\3 курс\рисунок с рандомом\Release\рисунок с рандомом.exe
